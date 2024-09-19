@@ -8,6 +8,7 @@ int main() {
     // Llama a las 3 funciones
     funcion1();
     funcion2(5, 2.67);
+    funcion 4 ()
     v = funcion3(10);
 
     // Imprime el valor que retornó funcion3()
